@@ -153,3 +153,5 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<sub style="color: #666;">Icons by: [Icons8](https://icons8.com)</sub>
