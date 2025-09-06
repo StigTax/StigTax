@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img width="144" height="144" src="https://img.icons8.com/color/144/empire.png" alt="empire"/>
+  <img width="100" height="100" src="https://img.icons8.com/color/144/empire.png" alt="empire"/>
   &nbsp;&nbsp;
   <em>В одной далекой, далекой, галактике...</em>
   &nbsp;&nbsp;
-  <img width="144" height="144" src="https://img.icons8.com/color/144/rebel.png" alt="rebel"/>
+  <img width="100" height="100" src="https://img.icons8.com/color/144/rebel.png" alt="rebel"/>
 </h1>
 
 <h2 align="center">Привет, я Никита!</h2>
