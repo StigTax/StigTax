@@ -85,7 +85,7 @@
 <ul>
   <li>
     <a href="https://github.com/StigTax/foodgram">
-      <img width="32" height="32" src="https://img.icons8.com/arcade/64/bot.png" alt="foodgram"/>
+      <img width="32" height="32" src="https://img.icons8.com/arcade/64/fast-food.png" alt="foodgram"/>
       Foodgram
     </a><br/>
     <sub>
@@ -97,7 +97,7 @@
   </li>
   <li>
     <a href="https://github.com/StigTax/homework_bot">
-      <img width="32" height="32" src="https://img.icons8.com/arcade/64/fast-food.png" alt="bot"/>
+      <img width="32" height="32" src="https://img.icons8.com/arcade/64/bot.png" alt="bot"/>
       Homework Bot
     </a><br/>
     <sub>
