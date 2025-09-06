@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img width="144" height="144" src="https://img.icons8.com/color/144/empire.png" alt="empire"/>
   &nbsp;&nbsp;
@@ -8,7 +7,7 @@
 </h1>
 
 <h2 align="center">Привет, я Никита!</h2>
-<h3 align="center"> Немного обо мне</h3>
+<h3 align="center">Немного обо мне</h3>
 <p align="center">Я занялся программированием совсем недавно. Всё началось с небольшой идеи… и тут понеслось!</p>
 
 ---
@@ -75,8 +74,5 @@
   </a>
   <a href="https://github.com/StigTax">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nikita">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
