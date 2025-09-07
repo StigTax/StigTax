@@ -1,11 +1,3 @@
-<h1 align="center">
-  <img width="100" height="100" src="https://img.icons8.com/color/144/empire.png" alt="empire"/>
-  &nbsp;&nbsp;
-  <em>В одной далекой, далекой, галактике...</em>
-  &nbsp;&nbsp;
-  <img width="100" height="100" src="https://img.icons8.com/color/144/rebel.png" alt="rebel"/>
-</h1>
-
 <h2 align="center">Привет, я Никита!</h2>
 <h3 align="center">Немного обо мне</h3>
 <p align="center">Я занялся программированием совсем недавно. Всё началось с небольшой идеи… и тут понеслось!</p>
