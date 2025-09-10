@@ -129,7 +129,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StigTax&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StigTax&layout=pie&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StigTax&show_icons=true&include_all_commits=true&hide=stars,issues,contribs&theme=radical"/>
 </p>
 
 ---
