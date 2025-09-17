@@ -4,6 +4,14 @@
 
 ---
 
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&background=00000000&lines=Python+Backend+Development;Django+Framework;Django+REST+Framework;PostgreSQL+Database;SQLite+for+lightweight+projects;SQLAlchemy+ORM;Docker+Containers;Nginx+Reverse+Proxy;Pytest+Testing;Unittest+Testing;Postman+API+Client;Git+%26+GitHub;CI%2FCD+Deployment" />
+</p>
+
+---
+
 <h2 align="center">Skills:</h2>
 
 <table align="center">
@@ -129,10 +137,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StigTax&layout=pie&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StigTax&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&hide_border=true" />
 </p>
+
+---
+
+<h2 align="center">💡 Developer Mood</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StigTax&show_icons=true&include_all_commits=true&hide=stars,issues,contribs&theme=radical"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&background=00000000&lines=%D0%A0%D1%83%D1%82%D0%B8%D0%BD%D0%B0+%E2%80%94+OFF;%D0%9B%D0%B5%D0%BD%D1%8C+%E2%80%94+%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0;200+OK%3B%D0%BD%D0%BE+%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8+500+%D1%8D%D0%BC%D0%BE%D1%86%D0%B8%D0%B9;%D0%AF+%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B0%D1%8E+%D0%B1%D0%B0%D0%B3%D0%B8%3B%D0%B8+%D0%BA%D0%BE%D1%80%D0%BC%D0%BB%D1%8E+%D0%B8%D1%85+%D0%BB%D0%BE%D0%B3%D0%B0%D0%BC%D0%B8;CI+%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%82%D1%81%D1%8F%3B%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D1%82%D1%81%D1%8F;StackOverflow+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D1%82%D0%B8%D0%BC%D0%BB%D0%B8%D0%B4%3BGPT+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D1%82%D0%B8%D0%BC%D0%BC%D0%B5%D0%B9%D1%82;%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%B5%D1%82%3B%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+%D1%83%D0%BB%D1%8B%D0%B1%D0%B0%D0%B5%D1%82%D1%81%D1%8F" />
 </p>
 
 ---
