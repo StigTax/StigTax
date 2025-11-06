@@ -25,11 +25,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br/>FastAPI
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL
+      <img src="https://img.shields.io/badge/Pydantic-models-3775A9?style=flat-square" /><br/>Pydantic
     </td>
   </tr>
   <tr>
     <!-- БД, ORM, окружение -->
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL
+    </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>SQLite
     </td>
@@ -45,11 +48,11 @@
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub
     </td>
-  </tr>
-  <tr>
     <!-- Тесты и вспомогательное -->
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br/>Pytest
@@ -114,7 +117,7 @@
     </a><br/>
     <sub>
       Сервис для бронирования комнат/переговорок.  
-      <br/>Стек: Django (или Django + DRF), ORM, шаблоны.  
+      <br/>Стек: FastAPI, SQLAlchemy, Pydantic, Alembic, шаблоны.  
       <br/>Особенности: CRUD для комнат, создание брони по датам и времени, проверка пересечений.
     </sub>
   </li>
