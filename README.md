@@ -1,21 +1,14 @@
 <h2 align="center">Привет, я Никита!</h2>
-<h3 align="center">Немного обо мне</h3>
-<p align="center">Я занялся программированием совсем недавно. Всё началось с небольшой идеи… и тут понеслось!</p>
+<h3 align="center">Backend-Developer (Python/Django/Flask/FastAPI)</h3>
+<p align="center">📫 Telegram: <a href="https://t.me/Nik_efr">@Nik_efr</a></p>
+<p align="center">💼 Ищу роль: backend / Python </p>
 
 ---
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&background=00000000&lines=Python+Backend+Development;Django+Framework;Django+REST+Framework;PostgreSQL+Database;SQLite+for+lightweight+projects;SQLAlchemy+ORM;Docker+Containers;Nginx+Reverse+Proxy;Pytest+Testing;Unittest+Testing;Postman+API+Client;Git+%26+GitHub;CI%2FCD+Deployment" />
-</p>
-
----
-
 <h2 align="center">Skills:</h2>
 
 <table align="center">
   <tr>
+    <!-- Ядро backend -->
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python
     </td>
@@ -26,24 +19,25 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/>DRF
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/><br/>SQLAlchemy
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br/>Flask
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>SQLite
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br/>FastAPI
     </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL
     </td>
   </tr>
   <tr>
+    <!-- БД, ORM, окружение -->
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br/>Pytest
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>SQLite
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Unittest
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/><br/>SQLAlchemy
     </td>
     <td align="center" width="130">
-      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/><br/>Postman
+      <img src="https://img.shields.io/badge/Alembic-migrations-green?style=flat-square" /><br/>Alembic
     </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>Docker
@@ -55,8 +49,25 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub
     </td>
   </tr>
+  <tr>
+    <!-- Тесты и вспомогательное -->
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br/>Pytest
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Unittest
+    </td>
+    <td align="center" width="130">
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/><br/>Postman
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Scrapy-spider-blue?style=flat-square" /><br/>Scrapy
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Parsing-BeautifulSoup%2FRequests-lightgrey?style=flat-square" /><br/>Parsing
+    </td>
+  </tr>
 </table>
-
 ---
 
 <h2 align="center">
@@ -92,9 +103,46 @@
       Веб-сервис «Продуктовый помощник» 🍲, где пользователи могут публиковать свои рецепты, добавлять их в избранное, 
       подписываться на авторов и формировать список покупок.  
       <br/>Стек: Django, DRF, PostgreSQL, Docker, Nginx.  
-      <br/>Особенности: кастомная аутентификация, работа с изображениями в base64, генерация TXT-списка покупок, DEPLOY на сервер, CI/CD.
+      <br/>Особенности: кастомная аутентификация, работа с изображениями в base64, генерация TXT-списка покупок, деплой на сервер, заготовка под CI/CD.
     </sub>
   </li>
+
+  <li>
+    <a href="https://github.com/StigTax/room_reservation">
+      <img width="32" height="32" src="https://img.icons8.com/arcade/64/planner.png" alt="room"/>
+      Room Reservation
+    </a><br/>
+    <sub>
+      Сервис для бронирования комнат/переговорок.  
+      <br/>Стек: Django (или Django + DRF), ORM, шаблоны.  
+      <br/>Особенности: CRUD для комнат, создание брони по датам и времени, проверка пересечений.
+    </sub>
+  </li>
+
+  <li>
+    <a href="https://github.com/StigTax/yacut">
+      <img width="32" height="32" src="https://img.icons8.com/arcade/64/link.png" alt="yacut"/>
+      YaCut — сервис сокращения ссылок
+    </a><br/>
+    <sub>
+      Мини-сервис, который принимает длинный URL и возвращает короткий.  
+      <br/>Стек: Flask, SQLAlchemy, Alembic.  
+      <br/>Особенности: генерация коротких идентификаторов, редиректы, хранение статистики.
+    </sub>
+  </li>
+
+  <li>
+    <a href="https://github.com/StigTax/scrapy_parser_pep">
+      <img width="32" height="32" src="https://img.icons8.com/arcade/64/source-code.png" alt="scrapy"/>
+      Scrapy parser PEP
+    </a><br/>
+    <sub>
+      Парсер для документации PEP: обходит страницы и собирает информацию по стандартам.  
+      <br/>Стек: Python, Scrapy.  
+      <br/>Особенности: сохранение отчётов в файлы (CSV/JSON), разбор структуры страниц, обработка статусов.
+    </sub>
+  </li>
+
   <li>
     <a href="https://github.com/StigTax/homework_bot">
       <img width="32" height="32" src="https://img.icons8.com/arcade/64/bot.png" alt="bot"/>
@@ -116,9 +164,7 @@
       API-сервис 📚 для отзывов и рейтингов произведений (книг, фильмов, музыки).  
       Пользователи могут оставлять отзывы, ставить оценки и комментировать.  
       <br/>Стек: Django, DRF, JWT-аутентификация, SQLite.  
-      <br/>Особенности: командный проект, где я выступал в роли лидера.  
-      Отрабатывали командную работу с Git: ветвления, code review, слияния через pull request.  
-      Работали по принципу разделения ответственности за модули и интеграцию.
+      <br/>Особенности: командный проект, работа через pull request, разделение модулей.
     </sub>
   </li>
   <li>
@@ -136,20 +182,13 @@
 
 ---
 
+<h3 align="center">📈 Немного статистики</h3>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StigTax&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&hide_border=true" />
 </p>
 
 ---
-
-<h2 align="center">💡 Developer Mood</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&background=00000000&lines=%D0%A0%D1%83%D1%82%D0%B8%D0%BD%D0%B0+%E2%80%94+OFF;%D0%9B%D0%B5%D0%BD%D1%8C+%E2%80%94+%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0;200+OK%3B%D0%BD%D0%BE+%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8+500+%D1%8D%D0%BC%D0%BE%D1%86%D0%B8%D0%B9;%D0%AF+%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B0%D1%8E+%D0%B1%D0%B0%D0%B3%D0%B8%3B%D0%B8+%D0%BA%D0%BE%D1%80%D0%BC%D0%BB%D1%8E+%D0%B8%D1%85+%D0%BB%D0%BE%D0%B3%D0%B0%D0%BC%D0%B8;CI+%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%82%D1%81%D1%8F%3B%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D1%82%D1%81%D1%8F;StackOverflow+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D1%82%D0%B8%D0%BC%D0%BB%D0%B8%D0%B4%3BGPT+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D1%82%D0%B8%D0%BC%D0%BC%D0%B5%D0%B9%D1%82;%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%B5%D1%82%3B%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+%D1%83%D0%BB%D1%8B%D0%B1%D0%B0%D0%B5%D1%82%D1%81%D1%8F" />
-</p>
-
----
-
 <p align="center">
   <a href="mailto:efremchef@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -162,4 +201,4 @@
   </a>
 </p>
 
-<sub style="color: #666;">Icons by: [Icons8](https://icons8.com)</sub>
+<sub style="color: #666;">Icons by: <a href="https://icons8.com">Icons8</a></sub>
