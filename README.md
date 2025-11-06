@@ -4,6 +4,7 @@
 <p align="center">💼 Ищу роль: backend / Python </p>
 
 ---
+
 <h2 align="center">Skills:</h2>
 
 <table align="center">
@@ -71,6 +72,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 <h2 align="center">
@@ -192,6 +194,7 @@
 </p>
 
 ---
+
 <p align="center">
   <a href="mailto:efremchef@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
