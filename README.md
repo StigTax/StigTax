@@ -64,6 +64,7 @@ _Also:_ ![Scrapy](https://img.shields.io/badge/Scrapy-Web%20Scraping-38761d?styl
       <br/>Стек: FastAPI, SQLAlchemy 2, Alembic, Pydantic, PostgreSQL, Celery, Redis, Flower, PyJWT, ruff, pre-commit  
       <br/>Особенности: командный проект; бронирование столов без пересечений (проверка конфликтов по времени/вместимости); JWT-аутентификация и роли (админ/персонал/клиент); фоновые задачи Celery (напоминания, авто-отмена просроченных броней), мониторинг очередей через Flower.
       <br/>Личный вклад: модули Cafes/Slots/Tables; алгоритм синхронизации менеджер↔кафе; настройка Celery/Redis/Flower; фоновые задачи (уведомления о создании/изменении бронирования, ежедневные напоминания); фабрика кастомных API-ответов.
+      <br/>Web: https://bron-team4.hix-cloud.ru/docs
     </sub>
   </li>
 
