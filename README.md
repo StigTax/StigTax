@@ -5,6 +5,7 @@
   Сейчас прокачиваю: Celery, Redis, RabbitMQ.
 </p>
 <p align="center"> Telegram: <a href="https://t.me/Nik_efr">@Nik_efr</a></p>
+<p align="center"> HH: <a href="https://balashiha.hh.ru/resume/59490fe0ff0f7a8d790039ed1f6c626b635464">Ефремчев Никита</a></p>
 <p align="center"> Ищу роль: backend / Python </p>
 
 ---
