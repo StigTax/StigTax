@@ -13,7 +13,7 @@
 </h2>
 
 **Backend:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/Django-3776AB?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-Framework-3776AB?style=flat&labelColor=1f2937)
 ![FastAPI](https://img.shields.io/badge/FastAPI-3776AB?style=flat&logo=fastapi&logoColor=white)
