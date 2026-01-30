@@ -110,6 +110,18 @@ _Also:_ ![Scrapy](https://img.shields.io/badge/Scrapy-Web%20Scraping-38761d?styl
     </sub>
   </li>
 </ul>
+<ul>
+  <li>
+    <a href="https://github.com/StigTax/inflation_tracker">
+      <img width="32" height="32" src="https://img.icons8.com/arcade/64/stocks.png" alt="stocks"/>
+      Трекер инфляции
+    </a><br/>
+    <sub>
+      Программа для отслеживания колебания цен на личную потребительскую карзину с выводом гистограмм. Аналитика по продукту, магазинам и категориям.
+      Реализован GUI (PyQt6) и CLI интерфейс для работы с базой данных.
+    </sub>
+  </li>
+</ul>
 
 <h3>
   <img width="45" height="45" src="https://img.icons8.com/arcade/32/book.png" alt="book"/> Educational Projects
